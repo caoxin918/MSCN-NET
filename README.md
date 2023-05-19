@@ -27,6 +27,9 @@ Natsort >= 7.1.1
 
 # 文件功能描述：
 train.py: 训练模型
+
 test.py:测试模型
+
 show.py：绘制损失曲线
+
 model.py: 构建网络模型
